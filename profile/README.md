@@ -1,4 +1,5 @@
-## NeverScapeAlone
+# ![tri-icon](https://user-images.githubusercontent.com/5789682/173276602-8cbfd0e4-4509-4335-a6c6-49a133fd0c9f.png) NeverScapeAlone ![tri-icon](https://user-images.githubusercontent.com/5789682/173276602-8cbfd0e4-4509-4335-a6c6-49a133fd0c9f.png)
+
 #### An Old School RuneScape Matchmaking Plugin on RuneLite! Tired of having to scour friend's chats, discords, and forums to find friends to play with? Look no further! This RuneLite plugin will pair you with players that share similar interests as yourself.
 
 ## Repository Listings

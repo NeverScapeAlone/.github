@@ -11,7 +11,7 @@
 ## Support Us and Community Links
 [Twitter](https://www.twitter.com/NeverScapeAlone)
 
-Discord: TBD
+[Discord](https://discord.gg/rs2AH3vnmf)
 
 [Github](https://github.com/NeverScapeAlone)
 

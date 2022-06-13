@@ -1,12 +1,12 @@
 ## NeverScapeAlone
-#### An Old School RuneScape Matchmaking Plugin on RuneLite!
+#### An Old School RuneScape Matchmaking Plugin on RuneLite! Tired of having to scour friend's chats, discords, and forums to find friends to play with? Look no further! This RuneLite plugin will pair you with players that share similar interests as yourself.
 
 ## Repository Listings
-[Plugin: never-scape-alone](https://github.com/NeverScapeAlone/never-scape-alone)
+[never-scape-alone](https://github.com/NeverScapeAlone/never-scape-alone)
 
-[API: NeverScapeAlone-API](https://github.com/NeverScapeAlone/NeverScapeAlone-API)
+[NeverScapeAlone-API](https://github.com/NeverScapeAlone/NeverScapeAlone-API)
 
-[Database: NeverScapeAlone-SQL](https://github.com/NeverScapeAlone/NeverScapeAlone-SQL)
+[NeverScapeAlone-SQL](https://github.com/NeverScapeAlone/NeverScapeAlone-SQL)
 
 ## Support Us and Community Links
 Twitter: https://www.twitter.com/NeverScapeAlone

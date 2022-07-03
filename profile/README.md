@@ -9,6 +9,8 @@
 
 🖥[NeverScapeAlone-SQL](https://github.com/NeverScapeAlone/NeverScapeAlone-SQL) - The Database files for the plugin. This is where the sql queries that create our tables are stored.
 
+![discord](https://user-images.githubusercontent.com/5789682/173276137-8ea82e88-4ec1-444f-baf0-4b0dc171901f.png) [NeverScapeAlone-discord](https://github.com/NeverScapeAlone/NeverScapeAlone-discord) - The NeverScapeAlone discord bot. This is the bot that manages our discord.
+
 ## Support Us and Community Links
 ![twitter](https://user-images.githubusercontent.com/5789682/173276125-347af1a5-e866-4770-97b2-7ebd3ab1aaa6.png)
 [Twitter](https://www.twitter.com/NeverScapeAlone)

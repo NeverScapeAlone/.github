@@ -7,7 +7,8 @@
 
 🖥[NeverScapeAlone-API](https://github.com/NeverScapeAlone/NeverScapeAlone-API) - The API for the plugin. This is where the data gets sent to.
 
-![image](https://user-images.githubusercontent.com/5789682/177053805-568b628f-0189-4870-ac8a-1a53bcdd55e4.png) [NeverScapeAlone-SQL](https://github.com/NeverScapeAlone/NeverScapeAlone-SQL) - The Database files for the plugin. This is where the sql queries that create our tables are stored.
+![sql-server](https://user-images.githubusercontent.com/5789682/177053846-3b578ea9-79af-4c50-b8c7-c0f078c537e3.png)
+[NeverScapeAlone-SQL](https://github.com/NeverScapeAlone/NeverScapeAlone-SQL) - The Database files for the plugin. This is where the sql queries that create our tables are stored.
 
 ![discord](https://user-images.githubusercontent.com/5789682/173276137-8ea82e88-4ec1-444f-baf0-4b0dc171901f.png) [NeverScapeAlone-discord](https://github.com/NeverScapeAlone/NeverScapeAlone-discord) - The NeverScapeAlone discord bot. This is the bot that manages our discord.
 

@@ -26,7 +26,7 @@
 [Patreon](https://www.patreon.com/bot_detector)
 
 ![paypal](https://user-images.githubusercontent.com/5789682/173276162-04095593-1887-42bc-b15d-718b2479425c.png)
-[PayPal](www.paypal.me/osrsbotdetector)
+[PayPal](https://www.paypal.com/paypalme/osrsbotdetector)
 
 ![eth](https://user-images.githubusercontent.com/5789682/173276023-fceaa48e-41ee-4968-a78a-66503eb8abdc.png)
 Ethereum: 0xD02f79F703e97DD9311464A225d41d396eB3d31b

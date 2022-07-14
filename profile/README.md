@@ -2,6 +2,10 @@
 
 #### An Old School RuneScape Matchmaking Plugin on RuneLite! Tired of having to scour friend's chats, discords, and forums to find friends to play with? Look no further! This RuneLite plugin will pair you with players that share similar interests as yourself.
 
+![GitHub](https://img.shields.io/github/license/NeverScapeAlone/never-scape-alone)
+[![](https://img.shields.io/endpoint?url=https://i.pluginhub.info/shields/rank/plugin/neverscapealone)](https://runelite.net/plugin-hub) [![](https://img.shields.io/endpoint?url=https://i.pluginhub.info/shields/installs/plugin/neverscapealone)](https://runelite.net/plugin-hub) ![Discord](https://img.shields.io/discord/985750991846666284?label=discord)
+![Twitter Follow](https://img.shields.io/twitter/follow/NeverScapeAlone?style=social)
+
 ## Repository Listings
 🔌[never-scape-alone](https://github.com/NeverScapeAlone/never-scape-alone) - The plugin itself.
 

@@ -1,11 +1,9 @@
 # ![tri-icon](https://user-images.githubusercontent.com/5789682/173276602-8cbfd0e4-4509-4335-a6c6-49a133fd0c9f.png) NeverScapeAlone ![tri-icon](https://user-images.githubusercontent.com/5789682/173276602-8cbfd0e4-4509-4335-a6c6-49a133fd0c9f.png)
 
 #### An Old School RuneScape Matchmaking Plugin on RuneLite! Tired of having to scour friend's chats, discords, and forums to find friends to play with? Look no further! This RuneLite plugin will pair you with players that share similar interests as yourself.
-
 ![GitHub](https://img.shields.io/github/license/NeverScapeAlone/never-scape-alone)
-[![](https://img.shields.io/endpoint?url=https://i.pluginhub.info/shields/rank/plugin/neverscapealone)](https://runelite.net/plugin-hub) [![](https://img.shields.io/endpoint?url=https://i.pluginhub.info/shields/installs/plugin/neverscapealone)](https://runelite.net/plugin-hub) ![Discord](https://img.shields.io/discord/985750991846666284?label=discord)
+[![](https://img.shields.io/endpoint?url=https://i.pluginhub.info/shields/rank/plugin/neverscapealone)](https://runelite.net/plugin-hub) [![](https://img.shields.io/endpoint?url=https://i.pluginhub.info/shields/installs/plugin/neverscapealone)](https://runelite.net/plugin-hub)
 ![Twitter Follow](https://img.shields.io/twitter/follow/NeverScapeAlone?style=social)
-
 ## Repository Listings
 🔌[never-scape-alone](https://github.com/NeverScapeAlone/never-scape-alone) - The plugin itself.
 
@@ -16,15 +14,11 @@
 
 ![discord](https://user-images.githubusercontent.com/5789682/173276137-8ea82e88-4ec1-444f-baf0-4b0dc171901f.png) [NeverScapeAlone-discord](https://github.com/NeverScapeAlone/NeverScapeAlone-discord) - The NeverScapeAlone discord bot. This is the bot that manages our discord.
 
-## Status
+## API
+[![Push workflow](https://github.com/NeverScapeAlone/NeverScapeAlone-API/actions/workflows/push_workflow.yml/badge.svg)](https://github.com/NeverScapeAlone/NeverScapeAlone-API/actions/workflows/push_workflow.yml)
 
-### API
-[![Deployment workflow](https://github.com/NeverScapeAlone/NeverScapeAlone-API/actions/workflows/workflow.yml/badge.svg)](https://github.com/NeverScapeAlone/NeverScapeAlone-API/actions/workflows/workflow.yml) [![Dependency Review](https://github.com/NeverScapeAlone/NeverScapeAlone-API/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/NeverScapeAlone/NeverScapeAlone-API/actions/workflows/dependency-review.yml) [![DevSkim](https://github.com/NeverScapeAlone/NeverScapeAlone-API/actions/workflows/devskim.yml/badge.svg)](https://github.com/NeverScapeAlone/NeverScapeAlone-API/actions/workflows/devskim.yml)
-
-### Discord
-[![Deployment workflow](https://github.com/NeverScapeAlone/NeverScapeAlone-discord/actions/workflows/workflow.yml/badge.svg)](https://github.com/NeverScapeAlone/NeverScapeAlone-discord/actions/workflows/workflow.yml) [![Dependency Review](https://github.com/NeverScapeAlone/NeverScapeAlone-discord/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/NeverScapeAlone/NeverScapeAlone-discord/actions/workflows/dependency-review.yml)
-[![DevSkim](https://github.com/NeverScapeAlone/NeverScapeAlone-discord/actions/workflows/devskim.yml/badge.svg)](https://github.com/NeverScapeAlone/NeverScapeAlone-discord/actions/workflows/devskim.yml)
-
+## Discord
+[![Push workflow](https://github.com/NeverScapeAlone/NeverScapeAlone-discord/actions/workflows/push_workflow.yml/badge.svg)](https://github.com/NeverScapeAlone/NeverScapeAlone-discord/actions/workflows/push_workflow.yml)
 
 ## Support Us and Community Links
 ![twitter](https://user-images.githubusercontent.com/5789682/173276125-347af1a5-e866-4770-97b2-7ebd3ab1aaa6.png)
@@ -47,3 +41,9 @@ Ethereum: 0xD02f79F703e97DD9311464A225d41d396eB3d31b
 
 ![btc](https://user-images.githubusercontent.com/5789682/173276016-702a3031-94c1-4b75-b951-738d5b500a47.png)
 Bitcoin: bc1qfm2esx4nmamlzkjjg959uetwfa4agd77hvqw2m
+
+
+## CREDITS
+Created by [@FerrariicOSRS](www.twitter.com/Ferrariicosrs)
+
+Minigame and Misc artwork by [@Unlockables](www.twitter.com/unlockables)

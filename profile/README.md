@@ -31,7 +31,7 @@
 [Github](https://github.com/NeverScapeAlone)
 
 ![patreon](https://user-images.githubusercontent.com/5789682/173276176-22dd9dcc-40c8-472b-9da2-455eebec296a.png)
-[Patreon](https://www.patreon.com/bot_detector)
+[Patreon](https://www.patreon.com/Ferrariic)
 
 ![paypal](https://user-images.githubusercontent.com/5789682/173276162-04095593-1887-42bc-b15d-718b2479425c.png)
 [PayPal](https://www.paypal.com/paypalme/osrsbotdetector)
